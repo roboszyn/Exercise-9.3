@@ -9,9 +9,10 @@
 ul {
 	padding: 0;
 	margin: 0;
+    width: 2500px;
 }
 
 li {
 	list-style: none;
-	float: right;
+	float: left;
 }
